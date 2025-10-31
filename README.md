@@ -1,2 +1,2 @@
 # Affective-CoT
-Affective-CoT: Decomposing Multimodal Emotion Reasoning through a Hierarchical Cognitive Workflow
+We are currently preparing the project homepage, which will be released soon
